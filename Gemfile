@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem "rails", "3.2.8"
+gem "rails", "3.0.5"
 
 gem "less", :git => "git://github.com/maccman/less.git"
 gem "rack-less"
